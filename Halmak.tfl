@@ -1,0 +1,290 @@
+{
+  "id": "custom-3ae4753a-61a2-44b0-9ca5-b81bed0df8b4",
+  "name": "Halmak",
+  "version": 1,
+  "keys": {
+    "KeyQ": {
+      "default": {
+        "base": "w",
+        "shift": "W"
+      }
+    },
+    "Backquote": {
+      "default": {
+        "base": "`",
+        "shift": "~"
+      }
+    },
+    "KeyW": {
+      "default": {
+        "base": "l",
+        "shift": "L"
+      }
+    },
+    "KeyE": {
+      "default": {
+        "base": "r",
+        "shift": "R"
+      }
+    },
+    "KeyR": {
+      "default": {
+        "base": "b",
+        "shift": "B"
+      }
+    },
+    "KeyT": {
+      "default": {
+        "base": "z",
+        "shift": "Z"
+      }
+    },
+    "KeyY": {
+      "default": {
+        "base": ";",
+        "shift": ":"
+      }
+    },
+    "KeyU": {
+      "default": {
+        "base": "q",
+        "shift": "Q"
+      }
+    },
+    "KeyI": {
+      "default": {
+        "base": "u",
+        "shift": "U"
+      }
+    },
+    "KeyO": {
+      "default": {
+        "base": "d",
+        "shift": "D"
+      }
+    },
+    "KeyP": {
+      "default": {
+        "base": "j",
+        "shift": "J"
+      }
+    },
+    "BracketLeft": {
+      "default": {
+        "base": "[",
+        "shift": "{"
+      }
+    },
+    "BracketRight": {
+      "default": {
+        "base": "]",
+        "shift": "}"
+      }
+    },
+    "Backslash": {
+      "default": {
+        "base": "\\",
+        "shift": "|"
+      }
+    },
+    "KeyA": {
+      "default": {
+        "base": "s",
+        "shift": "S"
+      }
+    },
+    "KeyS": {
+      "default": {
+        "base": "h",
+        "shift": "H"
+      }
+    },
+    "KeyD": {
+      "default": {
+        "base": "n",
+        "shift": "N"
+      }
+    },
+    "KeyF": {
+      "default": {
+        "base": "t",
+        "shift": "T"
+      }
+    },
+    "KeyG": {
+      "default": {
+        "base": ",",
+        "shift": "("
+      }
+    },
+    "KeyH": {
+      "default": {
+        "base": ".",
+        "shift": ")"
+      }
+    },
+    "Digit0": {
+      "default": {
+        "base": "0",
+        "shift": ">"
+      }
+    },
+    "Digit1": {
+      "default": {
+        "base": "1",
+        "shift": "!"
+      }
+    },
+    "Digit2": {
+      "default": {
+        "base": "2",
+        "shift": "@"
+      }
+    },
+    "Digit3": {
+      "default": {
+        "base": "3",
+        "shift": "#"
+      }
+    },
+    "Digit4": {
+      "default": {
+        "base": "4",
+        "shift": "$"
+      }
+    },
+    "Digit5": {
+      "default": {
+        "base": "5",
+        "shift": "%"
+      }
+    },
+    "Digit6": {
+      "default": {
+        "base": "6",
+        "shift": "^"
+      }
+    },
+    "Digit7": {
+      "default": {
+        "base": "7",
+        "shift": "&"
+      }
+    },
+    "Digit8": {
+      "default": {
+        "base": "8",
+        "shift": "*"
+      }
+    },
+    "Digit9": {
+      "default": {
+        "base": "9",
+        "shift": "<"
+      }
+    },
+    "Minus": {
+      "default": {
+        "base": "-",
+        "shift": "_"
+      }
+    },
+    "Equal": {
+      "default": {
+        "base": "=",
+        "shift": "+"
+      }
+    },
+    "KeyZ": {
+      "default": {
+        "base": "f",
+        "shift": "F"
+      }
+    },
+    "KeyX": {
+      "default": {
+        "base": "m",
+        "shift": "M"
+      }
+    },
+    "KeyC": {
+      "default": {
+        "base": "v",
+        "shift": "V"
+      }
+    },
+    "KeyV": {
+      "default": {
+        "base": "c",
+        "shift": "C"
+      }
+    },
+    "KeyB": {
+      "default": {
+        "base": "/",
+        "shift": "?"
+      }
+    },
+    "KeyN": {
+      "default": {
+        "base": "g",
+        "shift": "G"
+      }
+    },
+    "KeyM": {
+      "default": {
+        "base": "p",
+        "shift": "P"
+      }
+    },
+    "Comma": {
+      "default": {
+        "base": "x",
+        "shift": "X"
+      }
+    },
+    "Period": {
+      "default": {
+        "base": "k",
+        "shift": "K"
+      }
+    },
+    "Slash": {
+      "default": {
+        "base": "y",
+        "shift": "Y"
+      }
+    },
+    "KeyJ": {
+      "default": {
+        "base": "a",
+        "shift": "A"
+      }
+    },
+    "KeyK": {
+      "default": {
+        "base": "e",
+        "shift": "E"
+      }
+    },
+    "KeyL": {
+      "default": {
+        "base": "o",
+        "shift": "O"
+      }
+    },
+    "Semicolon": {
+      "default": {
+        "base": "i",
+        "shift": "I"
+      }
+    },
+    "Quote": {
+      "default": {
+        "base": "'",
+        "shift": "\""
+      }
+    }
+  },
+  "description": "The ultimate keyboard layout - designed by an evolutionary AI. More efficient than QWERTY, Dvorak, Colemak, and Workman."
+}
